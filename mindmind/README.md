@@ -101,6 +101,8 @@ mindmind/
 
 ## ⚡ Quick Start
 
+--> sucessfully deployed live link : https://mindmind.onrender.com/
+
 ### 1. Install & Run with Backend
 ```bash
 npm install
